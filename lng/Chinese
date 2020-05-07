@@ -2,7 +2,7 @@
 # --------------------------------
 # project    : https://github.com/MatMoul/archfi
 # language   : zh-cn
-# translator : chery (pseudo, name or e-mail.)
+# translator : chery (lemonpusi@gmail.com)
 # notes      : misc text...
 
 
@@ -33,7 +33,7 @@ txtautopartsconfirm="选择磁盘器 : %1\n\n全部数据将被擦除 ! \n\n继�
 
 txtautopartclear="Clear all partition data"
 txtautopartcreate="创建%1分区"
-txthybridpartcreate="Set hybrid MBR"
+txthybridpartcreate="设置 hybrid MBR"
 txtautopartsettype="设置分区%1类型"
 
 txtselectdevice="选择%1磁盘 :"
